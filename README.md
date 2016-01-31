@@ -5,7 +5,7 @@ GitHub repo: https://github.com/b33lie/shiny_app_mtcars
 
 Demo: https://b33lie.shinyapps.io/Motor
 
-Slide: http://rpubs.com/b33lie/148780
+Slide: http://rpubs.com/b33lie/148785
 
 ## Description
 

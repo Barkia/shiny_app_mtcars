@@ -7,8 +7,6 @@ date: 31 January 2016
 Overview
 ========================================================
 
-This simple application was created to illustrate cluster analysis. Specifically, the k-means clustering algorithm will be used in the application.
-
 This was built as part of a deliverable for the course **Developing Data Products** as part of the Coursera Data Science Specialization.
 
 The app developed for the first part of the assignment demo is avalilable at:
