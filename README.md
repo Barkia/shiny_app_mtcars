@@ -3,7 +3,7 @@ There are the Coursera’s MOOC Developing Data Products Course from Johns Hopki
 
 GitHub repo: https://github.com/b33lie/shiny_app_mtcars
 
-Demo: https://b33lie.shinyapps.io/Motor
+Demo: https://b33lie.shinyapps.io/shiny_app_mtcars/
 
 Slide: http://rpubs.com/b33lie/148785
 
